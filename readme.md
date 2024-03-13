@@ -10,8 +10,7 @@
   - [Information Extraction](#information-extraction)
   - [Data Presentation and Download](#data-presentation-and-download)
 - [Running the Application](#running-the-application)
-- [Future Work](#future-work)
-- [Contributing](#contributing)
+
 
 ## Introduction
 
@@ -35,7 +34,6 @@ The Resume Parser is a sophisticated tool designed to automate the extraction of
 ![Live video of Resume Parser Dashboard](app.gif "Live Video of Resume Parser Dashboard")
 
 
-
 ### PDF Upload Feature
 
 1. **Ask the user to upload a PDF**: The application provides a user-friendly interface for PDF resume uploads, drawing inspiration from industry standards.
@@ -53,7 +51,7 @@ The Resume Parser is a sophisticated tool designed to automate the extraction of
 To run the application locally:
 
 ```bash
-git clone [repository-link]
+git clone https://github.com/tanziltonmoy/NLP-Resume-Parser---A4
 cd [local-repository]
 python main.py
-Replace `[repository-link]` with the actual link to your repository and `[local-repository]` with the name of the directory containing your project. 
+Replace `[local-repository]` with the name of the directory containing your project. 
